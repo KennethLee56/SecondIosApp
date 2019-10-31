@@ -14,6 +14,10 @@
 		9EAC6655236A701200C26AC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6654236A701200C26AC6 /* Assets.xcassets */; };
 		9EAC6658236A701200C26AC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6656236A701200C26AC6 /* LaunchScreen.storyboard */; };
 		9EAC6660236A75D700C26AC6 /* Jokes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EAC665F236A75D700C26AC6 /* Jokes.swift */; };
+		9EAC6665236A7F8F00C26AC6 /* Astro.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6661236A7F8F00C26AC6 /* Astro.png */; };
+		9EAC6666236A7F8F00C26AC6 /* Fluffy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6662236A7F8F00C26AC6 /* Fluffy.png */; };
+		9EAC6667236A7F8F00C26AC6 /* Squido.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6663236A7F8F00C26AC6 /* Squido.png */; };
+		9EAC6668236A7F8F00C26AC6 /* Munchie.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EAC6664236A7F8F00C26AC6 /* Munchie.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		9EAC6657236A701200C26AC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EAC6659236A701200C26AC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EAC665F236A75D700C26AC6 /* Jokes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jokes.swift; sourceTree = "<group>"; };
+		9EAC6661236A7F8F00C26AC6 /* Astro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Astro.png; sourceTree = "<group>"; };
+		9EAC6662236A7F8F00C26AC6 /* Fluffy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fluffy.png; sourceTree = "<group>"; };
+		9EAC6663236A7F8F00C26AC6 /* Squido.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Squido.png; sourceTree = "<group>"; };
+		9EAC6664236A7F8F00C26AC6 /* Munchie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Munchie.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				9EAC6656236A701200C26AC6 /* LaunchScreen.storyboard */,
 				9EAC6659236A701200C26AC6 /* Info.plist */,
 				9EAC665F236A75D700C26AC6 /* Jokes.swift */,
+				9EAC6661236A7F8F00C26AC6 /* Astro.png */,
+				9EAC6662236A7F8F00C26AC6 /* Fluffy.png */,
+				9EAC6664236A7F8F00C26AC6 /* Munchie.png */,
+				9EAC6663236A7F8F00C26AC6 /* Squido.png */,
 			);
 			path = SecondIosApp;
 			sourceTree = "<group>";
@@ -129,7 +141,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EAC6658236A701200C26AC6 /* LaunchScreen.storyboard in Resources */,
+				9EAC6666236A7F8F00C26AC6 /* Fluffy.png in Resources */,
+				9EAC6665236A7F8F00C26AC6 /* Astro.png in Resources */,
 				9EAC6655236A701200C26AC6 /* Assets.xcassets in Resources */,
+				9EAC6668236A7F8F00C26AC6 /* Munchie.png in Resources */,
+				9EAC6667236A7F8F00C26AC6 /* Squido.png in Resources */,
 				9EAC6653236A701200C26AC6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
